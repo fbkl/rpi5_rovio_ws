@@ -1,0 +1,30 @@
+[submodule "src/ddynamic_reconfigure"]
+	path = src/ddynamic_reconfigure
+	url = https://github.com/pal-robotics/ddynamic_reconfigure.git
+[submodule "src/diagnostics"]
+	path = src/diagnostics
+	url = https://github.com/ros/diagnostics.git
+[submodule "src/lightweight_filtering"]
+	path = src/lightweight_filtering
+	url = git@github.com:fbkl/lightweight_filtering.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "src/roslint"]
+	path = src/roslint
+	url = https://github.com/ros/roslint.git
+[submodule "src/rovio"]
+	path = src/rovio
+	url = git@github.com:fbkl/rovio.git
+[submodule "src/tmux_launch"]
+	path = src/tmux_launch
+	url = https://github.com/frederico-klein/tmux_launch.git
+[submodule "src/vio_launch"]
+	path = src/vio_launch
+	url = git@github.com:fbkl/vio_launch.git
+[submodule "src/xacro"]
+	path = src/xacro
+	url = https://github.com/ros/xacro.git
+[submodule "src/kindr"]
+	path = src/kindr
+	url = git@github.com:fbkl/kindr.git
