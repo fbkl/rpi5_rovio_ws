@@ -39,3 +39,7 @@
 [submodule "src/interactive_markers"]
 	path = src/interactive_markers
 	url = https://github.com/ros-visualization/interactive_markers.git
+[submodule "src/resource_retriever"]
+	path = src/resource_retriever
+	url = https://github.com/ros/resource_retriever.git
+	branch = noetic-devel
