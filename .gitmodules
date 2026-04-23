@@ -36,3 +36,6 @@
 	path = src/ar_track_alvar
 	url = git@github.com:fbkl/ar_track_alvar.git
 	branch = noetic-devel
+[submodule "src/interactive_markers"]
+	path = src/interactive_markers
+	url = https://github.com/ros-visualization/interactive_markers.git
