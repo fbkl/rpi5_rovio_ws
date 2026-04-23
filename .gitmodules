@@ -28,3 +28,11 @@
 [submodule "src/kindr"]
 	path = src/kindr
 	url = git@github.com:fbkl/kindr.git
+[submodule "src/ar_test"]
+	path = src/ar_test
+	url = git@github.com:fbkl/ar_test.git
+	branch = feature/calib
+[submodule "src/ar_track_alvar"]
+	path = src/ar_track_alvar
+	url = git@github.com:fbkl/ar_track_alvar.git
+	branch = noetic-devel
